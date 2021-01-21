@@ -13,16 +13,16 @@
 #include <YoutubeApi.h>
 
 //------- Replace the following! ------
-const char *ssid = "HughesNet_3C846A";
-const char *password = "HNAF005C";
+const char *ssid = "";
+const char *password = " ";
 
 // twitch
-#define TWITCH_CLIENT_ID "0vx842rlthfao1dmm5nq2c1e7d8d6w"
-#define TWITCH_ACCESSTOKEN "s606lu2g5pebi7koxco1gjifiluoo6"
+#define TWITCH_CLIENT_ID ""
+#define TWITCH_ACCESSTOKEN ""
 
 // youtube
-#define API_KEY "AIzaSyCYtSMSxyXtOedndBZu6sooIbJV9wsg6gs"
-#define CHANNEL_ID "UC17rGqWCWZCaYqCSdwNYZeQ"
+#define API_KEY ""
+#define CHANNEL_ID ""
 
 const int pinOE = D2;
 const uint8_t totalModulos = 4;
